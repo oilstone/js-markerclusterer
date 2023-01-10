@@ -1,5 +1,5 @@
 {
-  "name": "@oilstone/markerclusterer",
+  "name": "oilstone-js-markerclusterer",
   "version": "1.0.0",
   "description": "Creates and manages per-zoom-level clusters for large amounts of markers.",
   "keywords": [
