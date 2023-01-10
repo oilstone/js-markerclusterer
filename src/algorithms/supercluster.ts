@@ -18,7 +18,7 @@ import { AbstractAlgorithm, AlgorithmInput, AlgorithmOutput } from "./core";
 import SuperCluster, { ClusterFeature } from "supercluster";
 
 import { Cluster } from "../cluster";
-import equal from "fast-deep-equal";
+import equal from "oilstone-fast-deep-equal";
 
 export type SuperClusterOptions = SuperCluster.Options<
   // eslint-disable-next-line @typescript-eslint/no-explicit-any

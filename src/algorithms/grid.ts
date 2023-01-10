@@ -27,7 +27,7 @@ import {
 } from "./utils";
 
 import { Cluster } from "../cluster";
-import equal from "fast-deep-equal";
+import equal from "oilstone-fast-deep-equal";
 
 export interface GridOptions extends ViewportAlgorithmOptions {
   gridSize?: number;
